@@ -19,15 +19,18 @@
  in your editor terminal:
 
     make build
-    
+
     make up
 
  after ~60sec you can see:
- http://localhost:5000/api/posts - server part
- http://localhost:3000/ - client part
+    http://localhost:5000/api/posts - server part
+    
+    http://localhost:3000/ - client part
 
 
 Also yo can :
-make down - turn off your containers 
-make restart - restart your containers
-make logs - to see logs
+    make down - turn off your containers 
+
+    make restart - restart your containers
+
+    make logs - to see logs
