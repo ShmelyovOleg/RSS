@@ -17,7 +17,9 @@
  run your docker client
 
  in your editor terminal:
+
     make build
+    
     make up
 
  after ~60sec you can see:
