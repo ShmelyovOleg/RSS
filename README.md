@@ -29,7 +29,7 @@
     http://localhost:3000/ - client part
 
 
-Also yo can :
+Also you can :
 
     make down - turn off your containers 
 
